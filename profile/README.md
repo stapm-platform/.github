@@ -1,9 +1,11 @@
 # Codebase for the Sheffield Tobacco and Alcohol Policy Modelling
 
+This GitHub organisation stores the R packages underlying the Sheffield Tobacco and Alcohol Policy Model (STAPM) and associated repositories of modelling projects, statistical analysis, and data processing. 
+
 For more about STAPM visit the [Sheffield Addictions Research Group (SARG)
 ](https://sarg-sheffield.ac.uk/research/modelling/stapm/) website.
 
-For open source code tools linked to our publications see our [open access repositories](https://github.com/STAPM)
+For open source code used to produce specific publications see our [open access repositories](https://github.com/STAPM)
 
 ## Overview
 The aim of the STAPM research programme at the [Sheffield Centre for Health and Related Research](https://www.sheffield.ac.uk/scharr) at the University of Sheffield, UK, is to identify and evaluate approaches to reducing the harm from tobacco and alcohol, with the aim of improving commissioning in a public health policy context, i.e. providing knowledge to support benefits achieved by policymakers.
