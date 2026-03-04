@@ -28,11 +28,17 @@ Some STAPM code is starting to become publicly available on this GitHub reposito
 
 ### Tobacco and Alcohol Tax and Price Intervention Simulation Model (TAX-sim) 
 
-[TAX-sim](https://github.com/stapm-platform/TAX-sim) - the main development repo for the TAX-sim model. 
-[TAX-sim v2.7.0](https://github.com/stapm-platform/TAX-sim-v2.7.0) - the most recent release version of the TAX-sim model, currently 2.7.0. 
+- [TAX-sim](https://github.com/stapm-platform/TAX-sim) - the main development repo for the TAX-sim model. 
+- [TAX-sim v2.7.0](https://github.com/stapm-platform/TAX-sim-v2.7.0) - the most recent release version of the TAX-sim model, currently 2.7.0. 
 
 
 ### The Sheffield Alcohol Policy Model in R (SAPM-R)
 
-[SAPM-R](https://github.com/stapm-platform/SAPM-R) - the main development repo for the SAPM-R model. 
-[SAPM-R v1.2.1](https://github.com/stapm-platform/SAPM-R-v1.2.1) - the most recent release version of the SAPM-R model, currently 1.2.1. 
+- [SAPM-R](https://github.com/stapm-platform/SAPM-R) - the main development repo for the SAPM-R model. 
+- [SAPM-R v1.2.1](https://github.com/stapm-platform/SAPM-R-v1.2.1) - the most recent release version of the SAPM-R model, currently 1.2.1.
+
+### R packages 
+
+- [stapmr](https://github.com/stapm-platform/stapmr) - the main STAPM R package, containing the functions required to run the different models built on the platform.
+- [pricepol](https://github.com/stapm-platform/pricepol) - the R package for modelling price and tax policy interventions in the TAX-sim model.
+- [hseclean](https://github.com/stapm-platform/hseclean) - the R package for cleaning the main survey data sources containing alcohol and tobacco consumption data - the Health Survey for England, Scottish Health Survey, and National Survey for Wales.
