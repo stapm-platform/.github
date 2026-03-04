@@ -26,6 +26,8 @@ Some STAPM code is starting to become publicly available on this GitHub reposito
 
 ## Code repositories
 
+Below are links to various code repositories. This list is not exhaustive, but contains the R packages, core repositories containing the different models built on the STAPM platform, and key input data processing repositories that ensure consistency in data cleaning across projects and models.
+
 ### Tobacco and Alcohol Tax and Price Intervention Simulation Model (TAX-sim) 
 
 - [TAX-sim](https://github.com/stapm-platform/TAX-sim) - the main development repo for the TAX-sim model. 
