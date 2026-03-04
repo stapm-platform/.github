@@ -24,4 +24,15 @@ A set of internal STAPM R packages have been developed that contain code used fo
 
 Some STAPM code is starting to become publicly available on this GitHub repository, but the majority is currently available only to the project team.  
 
+## Code repositories
 
+### Tobacco and Alcohol Tax and Price Intervention Simulation Model (TAX-sim) 
+
+[TAX-sim](https://github.com/stapm-platform/TAX-sim) - the main development repo for the TAX-sim model. 
+[TAX-sim v2.7.0](https://github.com/stapm-platform/TAX-sim-v2.7.0) - the most recent release version of the TAX-sim model, currently 2.7.0. 
+
+
+### The Sheffield Alcohol Policy Model in R (SAPM-R)
+
+[SAPM-R](https://github.com/stapm-platform/SAPM-R) - the main development repo for the SAPM-R model. 
+[SAPM-R v1.2.1](https://github.com/stapm-platform/SAPM-R-v1.2.1) - the most recent release version of the SAPM-R model, currently 1.2.1. 
