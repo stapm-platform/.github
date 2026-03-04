@@ -50,9 +50,9 @@ Below are links to various code repositories. This list is not exhaustive, but c
 - [SAPM-R](https://github.com/stapm-platform/SAPM-R) - the main development repo for the SAPM-R model. 
 - [SAPM-R v1.2.1](https://github.com/stapm-platform/SAPM-R-v1.2.1) - the most recent release version of the SAPM-R model, currently 1.2.1.
 
-### SAPM-NoLo 
+### STAPM-NoLo 
 
-- [SynthNoLo](https://github.com/stapm-platform/SynthNolo) - the repository used to construct the synthetic population for the SAPM-NoLo model.
+- [SynthNoLo](https://github.com/stapm-platform/SynthNolo) - the repository used to construct the synthetic population for the STAPM-NoLo model.
 
 ### Data analysis repositories
 
