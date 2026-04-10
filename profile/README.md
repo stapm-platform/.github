@@ -43,7 +43,9 @@ Below are links to various code repositories. This list is not exhaustive, but c
 
 - [TAX-sim](https://github.com/stapm-platform/TAX-sim) - the main development repo for the TAX-sim model. 
 - [TAX-sim v2.7.0](https://github.com/stapm-platform/TAX-sim-v2.7.0) - the most recent release version of the TAX-sim model, currently 2.7.0. 
-- [SynthTobAlc](https://github.com/stapm-platform/SynthTobAlc) - the repository used to construct the synthetic population for the TAX-sim model. 
+- [SynthTobAlc](https://github.com/stapm-platform/SynthTobAlc) - the repository used to construct the synthetic population for the TAX-sim model.
+
+For more detail on using the TAX-sim model for policy analysis, see the [wiki](https://github.com/stapm-platform/TAX-sim/wiki)
 
 ### The Sheffield Alcohol Policy Model in R (SAPM-R)
 
